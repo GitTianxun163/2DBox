@@ -1,0 +1,18 @@
+{
+	"show_name":"English",
+	"languages":[
+		"Select a world",
+		"Join the world",
+		"Create a new world",
+		"Settings",
+		"Delte the world",
+		"Language",
+		"Cancel",
+		"Determine",
+		"Info",
+		"Are you sure to delete?",
+		"Deletion succeeded!",
+		"World name:",
+		"World"
+	]
+}
